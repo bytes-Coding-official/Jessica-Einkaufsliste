@@ -1,0 +1,2 @@
+Deine Lebensmittel sind:
+Lebensmittel{name='Spagel', anzahl=1, preis=2.0, gewicht=4.0, kategorie=OBST}
